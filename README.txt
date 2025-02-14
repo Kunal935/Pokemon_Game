@@ -27,8 +27,8 @@ Technologies Used
 - CSV Dataset (for Pokémon stats)
 
 
-               OR  
---you can install locally in your computer--
+               
+--YOU CAN INSTALL LOCALLY IN YOUR COMPUTER--
 
 Installation
 1️⃣ Clone the repository
