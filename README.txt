@@ -9,6 +9,7 @@ This project is a Pokémon Comparator built using Streamlit that allows users to
 
 👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆👆
 
+
 Features
 - 🔍 Fuzzy name matching for better accuracy in case of typos.
 - 📊 Stat comparison between two Pokémon.
@@ -24,6 +25,10 @@ Technologies Used
 - FuzzyWuzzy (for name matching)
 - Requests (for fetching GIFs from Tenor API)
 - CSV Dataset (for Pokémon stats)
+
+
+               OR  
+--you can install locally in your computer--
 
 Installation
 1️⃣ Clone the repository
